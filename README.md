@@ -34,6 +34,12 @@
   </a>
 </div>
 
+### 🌐 Competitive Programming Profiles
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-b6a27a?style=for-the-badge&logo=codechef&logoColor=3f2b1a)](https://www.codechef.com/users/sshteaa)
+[![HackerRank](https://img.shields.io/badge/HackerRank-cfc2a3?style=for-the-badge&logo=hackerrank&logoColor=3f2b1a)](https://www.hackerrank.com/profile/srushtilonare18)
+
+
 
 
 
